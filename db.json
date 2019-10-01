@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "name": "Casual shoes",
+      "price": "250",
+      "brand": "Adidas",
+      "inventoryStatus": true,
+      "id": 1
+    },
+    {
+      "name": "Dress shirt",
+      "price": "150",
+      "brand": "J Crew",
+      "inventoryStatus": false,
+      "id": 2
+    }
+  ]
+}
